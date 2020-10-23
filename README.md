@@ -1,4 +1,4 @@
-# NodeJS-template
-Template com estruturas padrão para meu framework NodeJS
+# Reservation APP
+Using template with strucutres for my NodeJS framework as a basis.
 
-Este repositório deve ser utilizado como template para os projetos de web apps NodeJS + Express + Handlebars + MongoDB, para agilizar o processo de configuração e desenvolvimento.
+Web App to make reserves on bookable services, like Hotel, Restaurant, etc. Aiming to use cloud IA to determine patterns and suggest services.
